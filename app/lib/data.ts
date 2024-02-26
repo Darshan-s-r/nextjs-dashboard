@@ -1,6 +1,6 @@
 import { sql } from '@vercel/postgres';
 import {
-  CustomerField,
+  CustomerField, 
   CustomersTableType,
   InvoiceForm,
   InvoicesTable,
