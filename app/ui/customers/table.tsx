@@ -59,7 +59,7 @@ export default async function CustomersTable({
                     <div className="pt-4 text-sm">
                       <p>{customer.total_invoices} invoices</p>
                     </div>
-                  </div>
+                  </div> 
                 ))}
               </div>
               <table className="hidden min-w-full rounded-md text-gray-900 md:table">
